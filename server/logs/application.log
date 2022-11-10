@@ -1,0 +1,49 @@
+2019-08-12 11:47:21 [main] DEBUG fr.triedge.sekai.server.SekaiServer - Server initialized
+2019-08-12 11:47:21 [Thread-1] DEBUG fr.triedge.sekai.server.SekaiServer - Server running
+2019-09-18 15:15:45 [Thread-0] ERROR fr.triedge.sekai.server.SekaiServer - Model is null
+2019-09-18 15:15:45 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server running
+2019-09-18 15:18:10 [Thread-0] ERROR fr.triedge.sekai.server.SekaiServer - Model is null
+2019-09-18 15:18:27 [Thread-0] ERROR fr.triedge.sekai.server.SekaiServer - Model is null
+2019-09-18 15:18:27 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server running
+2019-09-18 15:19:13 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server initialized
+2019-09-18 15:19:13 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server running
+2019-09-18 16:27:59 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server initialized
+2019-09-18 16:27:59 [Thread-0] DEBUG fr.triedge.sekai.server.SekaiServer - Server running
+2019-09-19 14:23:04 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - START: loadClientConfig()
+2019-09-19 14:23:05 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Loading configuration file from: client/config/client.xml
+2019-09-19 14:23:05 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Configuration file loaded
+2019-09-19 14:23:05 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - END: loadClientConfig()
+2019-09-19 14:23:57 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - START: loadClientConfig()
+2019-09-19 14:23:57 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Loading configuration file from: client/config/client.xml
+2019-09-19 14:23:57 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Configuration file loaded
+2019-09-19 14:23:57 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - END: loadClientConfig()
+2019-09-19 14:24:20 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - START: loadClientConfig()
+2019-09-19 14:24:20 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Loading configuration file from: client/config/client.xml
+2019-09-19 14:24:20 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Configuration file loaded
+2019-09-19 14:24:20 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - END: loadClientConfig()
+2019-09-19 14:47:02 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - START: loadClientConfig()
+2019-09-19 14:47:02 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Loading configuration file from: client/config/client.xml
+2019-09-19 14:47:02 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Configuration file loaded
+2019-09-19 14:47:02 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - END: loadClientConfig()
+2019-09-19 14:47:04 [main] ERROR fr.triedge.sekai.client.controller.LauncherImpl - Cannot check for updates
+java.io.FileNotFoundException: http://triedge.fr/sekai/update.xml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872) ~[?:1.8.0_121]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474) ~[?:1.8.0_121]
+	at java.net.URL.openStream(URL.java:1045) ~[?:1.8.0_121]
+	at fr.triedge.sekai.common.utils.Utils.downloadFileTo(Utils.java:30) ~[bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.checkForUpdates(LauncherImpl.java:86) ~[bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.init(LauncherImpl.java:60) [bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.main(LauncherImpl.java:34) [bin/:?]
+2019-09-19 14:47:36 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - START: loadClientConfig()
+2019-09-19 14:47:36 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Loading configuration file from: client/config/client.xml
+2019-09-19 14:47:36 [main] INFO  fr.triedge.sekai.client.controller.LauncherImpl - Configuration file loaded
+2019-09-19 14:47:36 [main] DEBUG fr.triedge.sekai.client.controller.LauncherImpl - END: loadClientConfig()
+2019-09-19 14:47:37 [main] ERROR fr.triedge.sekai.client.controller.LauncherImpl - Cannot check for updates
+java.io.FileNotFoundException: http://triedge.fr/sekai/update.xml
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1872) ~[?:1.8.0_121]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1474) ~[?:1.8.0_121]
+	at java.net.URL.openStream(URL.java:1045) ~[?:1.8.0_121]
+	at fr.triedge.sekai.common.utils.Utils.downloadFileTo(Utils.java:30) ~[bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.checkForUpdates(LauncherImpl.java:87) ~[bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.init(LauncherImpl.java:60) [bin/:?]
+	at fr.triedge.sekai.client.controller.LauncherImpl.main(LauncherImpl.java:34) [bin/:?]

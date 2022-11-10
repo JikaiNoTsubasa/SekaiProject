@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ClientConfig>
+    <LinkUpdate>http://triedge.fr/sekai/update.xml</LinkUpdate>
+    <ServerHost>localhost</ServerHost>
+    <ServerPort>1989</ServerPort>
+    <ClientVersion>0.2</ClientVersion>
+</ClientConfig>

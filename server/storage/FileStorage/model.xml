@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model>
+    <users>
+        <users>
+            <characters>
+                <id>0</id>
+                <name>Jikai</name>
+            </characters>
+            <id>8888</id>
+            <password>test</password>
+            <username>test</username>
+        </users>
+    </users>
+</model>

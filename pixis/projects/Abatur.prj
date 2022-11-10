@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project>
+    <MapList/>
+    <ProjectName>Abatur.prj</ProjectName>
+    <PaletteList>
+        <Palette id="0">
+            <ColorList>
+                <Color>-37880</Color>
+                <Color>-53761</Color>
+                <Color>-16711732</Color>
+                <Color>-3407719</Color>
+                <Color>-6588944</Color>
+            </ColorList>
+            <PaletteName>palette1.pal</PaletteName>
+        </Palette>
+        <Palette id="0">
+            <ColorList>
+                <Color>-13369345</Color>
+            </ColorList>
+            <PaletteName>palette2.pal</PaletteName>
+        </Palette>
+        <Palette id="0">
+            <ColorList/>
+            <PaletteName>pal.pal</PaletteName>
+        </Palette>
+    </PaletteList>
+    <SpriteList>
+        <Sprite>
+            <CharacterHeight>32</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <ImageType>6</ImageType>
+            <LayerList>
+                <SpriteLayer>
+                    <id>0</id>
+                    <SpriteList>
+                        <Sprite posXonSheet="0" posYonSheet="0">
+                            <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAAAIUlEQVR42mNgGAWjgBD4D4SjBowaMGrAqAHDyIDRcCAIAOxNL9Hpi9rjAAAAAElFTkSuQmCC</ImageData>
+                        </Sprite>
+                    </SpriteList>
+                </SpriteLayer>
+            </LayerList>
+            <SpriteSheetName>sprite1.sp</SpriteSheetName>
+        </Sprite>
+        <Sprite>
+            <CharacterHeight>32</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <ImageType>6</ImageType>
+            <LayerList>
+                <SpriteLayer>
+                    <id>0</id>
+                    <SpriteList>
+                        <Sprite posXonSheet="0" posYonSheet="0">
+                            <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAABLklEQVR42p1VMQ7CMAz0yGd4BQMzL2CAkZWZdyAW+E//AUIgwVLGIJc6dR1fkqIoSpTE5/PFcei0fwWvN3QsduJmjTxjPpgYSvvHexZAb4qBt5dlIIe1sWZWDcDNA4UieiFocXkt7GY+g+FQE7vHrAKAEvo/uk0EGBwBDWzs2sEAUBAxUp4HxYJSraxBS+du/NAlYSB7Ix0sxZZOIw145DV0U4TilwMcgs1Il4FNHp0D9mYggM4wDYLSPAuAjIVBESBXaCDAmw6JmCyirEdhew06EI8BWhOvWRFLzzt50rlYrdFI/dJbQAXWBUDUq4sqEk4bPGnTj1scAvoLeP6gNa7KOnWrfyTLQINYL96NRDBdC++0ggDeFxcBbLZNCkMzuNGy67LJ80kAU9uVFuELQzAKO1vsuR4AAAAASUVORK5CYII=</ImageData>
+                        </Sprite>
+                    </SpriteList>
+                </SpriteLayer>
+            </LayerList>
+            <SpriteSheetName>dummy.sp</SpriteSheetName>
+        </Sprite>
+        <Sprite>
+            <CharacterHeight>32</CharacterHeight>
+            <CharacterWidth>16</CharacterWidth>
+            <ImageType>6</ImageType>
+            <LayerList>
+                <SpriteLayer>
+                    <id>0</id>
+                    <SpriteList>
+                        <Sprite posXonSheet="0" posYonSheet="0">
+                            <ImageData>iVBORw0KGgoAAAANSUhEUgAAABAAAAAgCAYAAAAbifjMAAAAhUlEQVR42sWVSw7AIAhEvf+l7aKrWucHMUriCp4wIo4xm/Zu5lp9zwDulvAhpwAVHGmAAiMAFU5pgEqyAUxECEDBdgZUqGoGULhEA5XR1pmdaANQQ1mAqBzmsGuu0lugb8QFwMwqADqRXEC5hJ+obIAoMc8B3OuUgHgiKVD7a7M6sQRo2AOZgJp0V2ht7gAAAABJRU5ErkJggg==</ImageData>
+                        </Sprite>
+                    </SpriteList>
+                </SpriteLayer>
+            </LayerList>
+            <SpriteSheetName>my.sp</SpriteSheetName>
+        </Sprite>
+    </SpriteList>
+</Project>
